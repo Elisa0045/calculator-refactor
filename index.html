@@ -1,16 +1,24 @@
-<html>
+<html lang="en">
+  <head>
+    <!-- this script is to help evaluate your deployed project -->
+    <script src="./dependencies/evaluation.js"></script>
+    <!-- this is the testing function for your logic -->
+    <script src="./dependencies/testing.js"></script>
+  </head>
 
-<head>
-
-  <!-- this script is to help evaluate your deployed project -->
-  <script src='./dependencies/evaluation.js'></script>
-  <!-- this is the testing function for your logic -->
-  <script src='./dependencies/testing.js'></script>
-
-</head>
-
-<body>
-
-</body>
-
+  <body>
+    <form>
+      Value 1: <input type="text" id="box1" /> Value 2:
+      <input type="text" id="box2" />
+      Operator:
+      <select id="operator">
+        <option value="add">Add</option>
+        <option value="min">Minus</option>
+        <option value="div">Divide</option>
+        <option value="mul">Multiply</option>
+      </select>
+      <button id="buttoncalc" type="button">Calculate</button>
+    </form>
+    <span id="result">123</span>
+  </body>
 </html>
