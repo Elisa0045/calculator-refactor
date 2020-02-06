@@ -10,6 +10,11 @@
 | __DOM__ | As a student of Hack your Future I want to create the initial HTML code and identify the HTML objects with id's so that i can use them in javascript. | Writing the initial code adding a form, input box, output span, and the buttons. | Without changes. |
 | __Listener__ | As a student of Hack your Future I create the listener, so that can add an event handler to an element in HTML or in the DOM.  | Without changes. | Without changes. |
 | __Handler__ |As a student I create the handler, so that allows to extract the data from the boxes (box1+box2), process, and calculate.| I add the sources: listener, handler and logic. | Without changes. |
+| __Logic__ | As a student I create the logic of mi javascript, so that allows to execute all the logic in the sense like functions, with all the characters and will be return the response. | I add the input type: number. | Without changes. |
+
+
+
+
 
 
 ## WireFrame
@@ -40,6 +45,14 @@
 | Function: calculate handler id="box1" id="box2" id="operator" | First value and second value, and operation type (add, minus, divide, multiply).  | Boolean. | Extract the data from the boxes (box1+box2), process, and calculate.  |
 
 
+
+## Logic
+
+| syntax | parameters | return value | behavior |
+| --- | --- | --- | --- |
+| Function doMath (operation, a, b). | _String:_ that will be inform of an invalid operation. _Number:_ that will be return de response of the operations (add, minus, divide, multiply) in a number.| Process the input value on the text fields, show the operations (add, minus, divide, multiply) and will return the value of the results, and that will be processing only the number characters, if the values are not numbers the operation will be invalid, and types a throw an error. |
+
+
 ## Styling
 
 | class name | description | role |
@@ -48,10 +61,4 @@
 
 
 
-
-## Logic
-
-| syntax | parameters | return value | behavior |
-| --- | --- | --- | --- |
-| | | | |
 
