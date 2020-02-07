@@ -11,7 +11,7 @@
 | __Listener__ | As a student of Hack your Future I create the listener, so that can add an event handler to an element in HTML or in the DOM.  | Without changes. | Without changes. |
 | __Handler__ |As a student I create the handler, so that allows to extract the data from the boxes (box1+box2), process, and calculate.| I add the sources: listener, handler and logic. | Without changes. |
 | __Logic__ | As a student I create the logic of mi javascript, so that allows to execute all the logic in the sense like functions, with all the characters and will be return the response. | I add the input type: number. | Without changes. |
-
+| __Styling__ | As a student I add the CSS properties for layout the calculator.| I add some eds and classes for the CSS. | Styling the size inputs, layout the contents of the calculator, the text, the button, and the colors. |
 
 
 
@@ -56,8 +56,14 @@
 ## Styling
 
 | class name | description | role |
-| --- | --- | --- |
-| | | |
+| --- | --- | --- |(
+| _Main-area_ |Container with all the general styling elements (main-styling). | CSS attributes and properties for layout and styling the calculator.  |
+| _Buttoncalc_ |The button "calculate"  | CSS attributes and properties for layout and styling the button.  |
+| _Operator_ |Selector for the operations (add, minus, divide, multiply) | CSS attributes and properties for layout and styling the selector.  |
+| _Box input_ |Input box.| CSS attributes and properties for layout and styling the input boxes.  |
+| _Box_ |Styling the padding in the container elements (box1 and box2) | CSS attributes and properties for layout and styling the boxes.  |
+| _Result_ |Styling the padding of the container element | CSS attributes and properties for layout and styling the boxes.  |
+
 
 
 
