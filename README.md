@@ -1,4 +1,45 @@
-> * Follow [this tutorial from `mmtuts`](https://www.youtube.com/watch?v=qQEYAOPWDzk) and refactor your finished code into the files of this repository.  Be sure to organize your development process using Git Branches
-> * To learn more about how to organize your code & how to write development-strategies for this project, you can study the [using-user-input exercises](https://github.com/hackyourfuturebelgium/using-user-input)
-> * And of course, don't be limited by the tutorial!  It's just a starting point.  After making the base project work, follow your imagination
-> * Branching: for this project you should organize your branches basesd on _concern_ instead of user story.  If you look in the `development-strategy` template file you will find that there are a series of tables, the code for each table should be developed on it's own branch.  You can also find information on what the branches should be called in the students/module overview app for your class, and the assignment in the week's README
+# Calculator-refactor. 
+
+
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
+
+## General info
+The purpose of this project was learning how to use and how works Javascript in the web pages, building a calculator with the basic operations (add, minus, divide, multiply). This project was made using the Visual Studio Core for writing the code, and then I use GitKraken for save my code remotely in Github.
+For be more organized I create different branches that show every step and change that I made.
+Everything was building in a really friendly web page, that everyone can understand and use.
+
+## Screenshots
+![Example screenshot](./img/sch.png)
+
+
+## Technologies
+* HTML 5.
+* CSS.
+* Javascript.
+
+
+## Setup
+Fork or clone this repository. 
+
+
+
+## Features
+*  The calculator.
+* Javascript code for process the values , and calculate  them.
+
+
+## Status
+Project is: **_finished_.**
+
+## Inspiration
+Project inspired by [this tutorial](https://www.youtube.com/watch?v=qQEYAOPWDzk)
+## Contact
+Created by [@Elisa0045](https://github.com/Elisa0045) - feel free to contact me!
